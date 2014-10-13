@@ -10,3 +10,5 @@ brew install caskroom/cask/brew-cask
 brew cask install google-chrome
 brew cask install macdown
 
+brew cask install eclipse-ide
+
