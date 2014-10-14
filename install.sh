@@ -11,6 +11,7 @@ brew cask install google-chrome
 brew cask install macdown
 
 brew cask install eclipse-ide
+brew cask install java
 
 # Configuration
 defaults write com.apple.desktopservices DSDontWriteNetworkStores true # disables DS_Store files on network drives
