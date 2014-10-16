@@ -15,3 +15,4 @@ brew cask install java
 
 # Configuration
 defaults write com.apple.desktopservices DSDontWriteNetworkStores true # disables DS_Store files on network drives
+echo "function gi() { curl -L -s https://www.gitignore.io/api/\$@ ;}" >> ~/.zshrc && source ~/.zshrc # gitignore.io configuration
