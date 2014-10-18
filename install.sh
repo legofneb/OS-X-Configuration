@@ -16,7 +16,7 @@ brew cask install java
 #Install Chromium
 sudo mkdir /usr/bin/depot_tools
 sudo git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git /usr/bin/depot_tools
-export PATH=/usr/bin/depot_tools:"$PATH"
+echo "export PATH=/usr/bin/depot_tools:\"\$PATH\"" >> ~/.zshrc
 
 # Configuration
 defaults write com.apple.desktopservices DSDontWriteNetworkStores true # disables DS_Store files on network drives
