@@ -13,6 +13,8 @@ brew cask install macdown
 brew cask install eclipse-ide
 brew cask install java
 
+brew install tree
+
 # Install Chromium Tols
 sudo mkdir /usr/bin/depot_tools
 sudo git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git /usr/bin/depot_tools
