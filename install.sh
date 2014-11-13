@@ -15,7 +15,7 @@ brew cask install java
 
 brew install tree
 
-# Install Chromium Tols
+# Install Chromium Tools
 sudo mkdir /usr/bin/depot_tools
 sudo git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git /usr/bin/depot_tools
 echo "export PATH=/usr/bin/depot_tools:\"\$PATH\"" >> ~/.zshrc
