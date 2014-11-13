@@ -13,6 +13,8 @@ brew cask install macdown
 brew cask install eclipse-ide
 brew cask install java
 
+brew install pypy
+
 brew install tree
 
 # Install Chromium Tools
