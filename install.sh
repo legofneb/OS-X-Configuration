@@ -30,3 +30,6 @@ git config --global user.email "legofneb@gmail.com"
 # Let Homebrew manage openssl
 brew install openssl
 brew link --force openssl
+
+# Update Caffeine Icon
+sudo cp -R -f CaffeineIcons/* /Applications/Caffeine.app/Contents/Resources

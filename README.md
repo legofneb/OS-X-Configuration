@@ -19,4 +19,6 @@ So here is what is included in my script so far.
 * MacDown (Markdown program for Mac)
 * Google Chrome
 
+###Configuration
 
+* Better Caffeine.app Icons [http://jimmygreen.deviantart.com/art/Retina-Caffeine-menubar-icons-350451587](Made by JimmyGreen)
