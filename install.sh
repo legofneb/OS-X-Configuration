@@ -17,6 +17,8 @@ brew install pypy
 
 brew install tree
 
+sudo npm install -g github-todos
+
 # Install Chromium Tools
 sudo mkdir /usr/bin/depot_tools
 sudo git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git /usr/bin/depot_tools
