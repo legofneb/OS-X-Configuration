@@ -17,6 +17,8 @@ brew install pypy
 
 brew install tree
 
+brew install node
+
 sudo npm install -g github-todos
 
 # Install Chromium Tools
